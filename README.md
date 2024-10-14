@@ -1,3 +1,5 @@
+
+
 ## Presentaciones
 
 - **B-prop**. Una [presentación en pdf](backpropagation.pdf) con las nociones básicas desde la filosofía de las plataformas de diferenciación automática como TensorFlow o pyTorch
