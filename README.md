@@ -1,4 +1,4 @@
-**Julio Waissman**
+**Curso/Taller**
 
 ## Presentaciones
 
