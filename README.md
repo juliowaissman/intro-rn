@@ -1,4 +1,7 @@
-![](imagen.png)
+
+<center>
+<img src="imagen.png" alt="Red neuronal en Dall-e" style="width:200px;"/>
+</center>
 
 ## Presentaciones
 
