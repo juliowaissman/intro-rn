@@ -1,13 +1,11 @@
 
-<center>
 <img src="imagen.png" alt="Red neuronal en Dall-e" style="width:200px;"/>
-</center>
 
 ## Presentaciones
 
 - **B-prop**. Una [presentación en pdf](intro-rn.pdf) con las nociones básicas desde la filosofía de las plataformas de diferenciación automática como TensorFlow o pyTorch
 - **CNN**. Una [presentación en pdf](convolucionales.pdf) con la arquitectura básica de las redes neuronales convolucionales (CNN)
-- **Transferencia de aprendizaje**. ¿Porque podemos usar modelos preentrenados? En [esta presentación en pdf](transfer_learning-2.pdf) queremos dar alguna intuición de porqué.
+- **Transferencia de aprendizaje**. ¿Por qué podemos usar modelos preentrenados? En [esta presentación en pdf](transfer_learning-2.pdf) queremos dar alguna intuición de porqué.
 
 ## Libretas para el taller
 
@@ -29,11 +27,11 @@
 
 ## Libros y documentación a profundidad
 
-- El libro [Deep Learning](https://www.deeplearningbook.org) de Ian Goodfellow, Yoshua Bengio y Aaron Courville gratuito en linea con material adicional.
+- El libro [*Deep Learning*](https://www.deeplearningbook.org) de Ian Goodfellow, Yoshua Bengio y Aaron Courville gratuito en linea con material adicional.
 
-- [NeurIPS](https://nips.cc), la conferencia más importante en redes neuronales.
+- [*NeurIPS*](https://nips.cc), la conferencia más importante en redes neuronales.
 
-- [Journal of Machine Learning Research](https://jmlr.org) es una publicación libre muy completa sobre el último grito de la moda en ML. Muy buenos artículos, pero bastante más densos. 
+- [*Journal of Machine Learning Research*](https://jmlr.org) es una publicación libre muy completa sobre el último grito de la moda en ML. Muy buenos artículos, pero bastante más densos. 
 
 ## Cursos 
 
