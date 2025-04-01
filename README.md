@@ -1,5 +1,5 @@
 <center>
-<img src="imagen.png" alt="Red neuronal en Dall-e" style="width:200px;"/>
+<img src="proxy2925.jpg" alt="Confgreso proxy" style="width:200px;"/>
 </center>
 
 ## Presentaciones
