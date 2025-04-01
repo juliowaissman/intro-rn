@@ -18,6 +18,8 @@
   
 - [**Transferencia del aprendizaje**](https://colab.research.google.com/github/juliowaissman/intro-rn/blob/main/transfer.ipynb)
 
+- [**Transferencia de estilo usando modelos preentrenados**](https://colab.research.google.com/github/juliowaissman/intro-rn/blob/main/transfer_img.ipynb]
+
 
 ## Enlaces interesantes
 
