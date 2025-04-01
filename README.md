@@ -23,7 +23,7 @@
 
 ## Enlaces interesantes
 
-- Por supuesto, el enlace obligatorio es a la página del proyecto de [Keras](https://keras.io).
+- Por supuesto, el enlace obligatorio es a la página del proyecto de [*Keras*](https://keras.io).
 
 - No se puede vivir y hacer *deep learning* si no utilizamos regularmente el sitio de [*papers with code*](https://paperswithcode.com). Código, tutriales, conjuntos de datos, modelos preentrenados,...
 
